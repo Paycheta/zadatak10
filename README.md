@@ -1,2 +1,2 @@
-# task10
+# zadatak10
 math.random() practise
